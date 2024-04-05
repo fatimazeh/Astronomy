@@ -1,0 +1,304 @@
+#d1{
+    height:500px;
+    width:100%;
+    /* border:2px black ridge; */
+    float: left;
+    background-image: url(Images/universe2.jpg);
+    background-repeat: no-repeat;
+    background-size:100% 500px;
+    background-position:100%;
+}
+#d1d{
+   height:200px;
+   width:100%;
+   /* border:2px black ridge; */
+   float: left;
+   background-color:rgba(300,300,300,0.3);
+   backdrop-filter:blur(100%);
+   margin-top:8%; 
+}
+#h11{
+    margin-left:40%;
+    color:purple;
+    font-family:"sofia",sans-serif;
+    font-size:70px;
+    margin-top:5%;
+    text-shadow:10px 10px #f5f0f5;
+  }
+#d2{
+    height:350px;
+    width:100%;
+    /* border:2px black ridge; */
+    float: left;
+}
+#h1{
+    margin-left:25%;
+    color:purple;
+    font-family:"sofia",sans-serif;
+    margin-top: 5%;
+    font-size:xx-large;
+  } 
+#p1{
+    font-family:"sofia",sans-serif;
+    margin:70px;
+    /* margin-top:15px; */
+    margin-top:70px;
+    font-size:large;
+    margin-left:50px;
+    margin-right:50px;
+    margin-bottom:10px;
+}
+#d3{
+    height:800px;
+    width:100%;
+    /* border:2px black ridge; */
+    float: left;
+}
+#h2{
+    margin-left:40%;
+    color:purple;
+    font-family:"sofia",sans-serif;
+    margin-top: 5%;
+    font-size:xx-large;
+  }  
+#d4{
+    height:605px;
+    width:40%;
+    border:2px purple ridge;
+    float: left;
+    margin-left:28%;
+    margin-top: 2%;
+    border-radius:15px 70px;
+}
+#d5{
+    height:300px;
+    width:25%;
+    /* border:2px black ridge; */
+    margin-left:2%;
+    margin-top:35px;
+    background-image:url(Images/big\ bang\ 1.jpg);
+    background-repeat: no-repeat;
+    background-size:100% 300px;
+    border-radius:15px 70px;
+}
+ #d6{
+    height:300px;
+    width:25%;
+    /* border:2px black ridge; */
+    margin-left:69%;
+    background-image:url(Images/big\ bang\ 2.jpg);
+    background-repeat: no-repeat;
+    background-size:100% 300px;
+    border-radius:15px 70px;
+    }    
+#p2{
+    font-family:"sofia",sans-serif;
+    margin:70px;
+    margin-top:50px;
+    font-size:large;
+    margin-left:55px;
+    margin-right:50px;
+    margin-bottom:10px;
+}
+#d7{
+    height:800px;
+    width:100%;
+     /* border:2px black ridge; */
+    float: left;
+}
+#h3{
+    margin-left:40%;
+    color:purple;
+    font-family:"sofia",sans-serif;
+    margin-top: 5%;
+    font-size:xx-large;
+  }      
+#d8{
+    height:605px;
+    width:40%;
+    border:2px purple ridge;
+    float: left;
+    margin-left:28%;
+    margin-top: 2%;
+    border-radius:15px 70px;
+}
+#d9{
+    height:300px;
+    width:25%;
+    /* border:2px black ridge; */
+    margin-left:2%;
+    margin-top:35px;
+    background-image:url(Images/dark1.jpg);
+    background-repeat: no-repeat;
+    background-size:100% 300px;
+    border-radius:15px 70px;
+}
+ #d10{
+    height:300px;
+    width:25%;
+    /* border:2px black ridge; */
+    margin-left:69%;
+    background-image:url(Images/dark2.jpg);
+    background-repeat: no-repeat;
+    background-size:100% 300px;
+    border-radius:15px 70px;
+    }   
+#p3{
+    font-family:"sofia",sans-serif;
+    margin:70px;
+    margin-top:50px;
+    font-size:large;
+    margin-left:55px;
+    margin-right:50px;
+    margin-bottom:10px;
+}
+#d11{
+    height:800px;
+    width:100%;
+     /* border:2px black ridge; */
+    float: left;
+}
+#h4{
+    margin-left:40%;
+    color:purple;
+    font-family:"sofia",sans-serif;
+    margin-top: 5%;
+    font-size:xx-large;
+  }      
+#d12{
+    height:605px;
+    width:40%;
+    border:2px purple ridge;
+    float: left;
+    margin-left:28%;
+    margin-top: 2%;
+    border-radius:15px 70px;
+}
+#d13{
+    height:300px;
+    width:25%;
+    /* border:2px black ridge; */
+    margin-left:2%;
+    margin-top:35px;
+    background-image:url(Images/deep1.jpg);
+    background-repeat: no-repeat;
+    background-size:100% 300px;
+    border-radius:15px 70px;
+}
+ #d14{
+    height:300px;
+    width:25%;
+    /* border:2px black ridge; */
+    margin-left:69%;
+    background-image:url(Images/deep2.jpg);
+    background-repeat: no-repeat;
+    background-size:100% 300px;
+    border-radius:15px 70px;
+    }   
+#p4{
+    font-family:"sofia",sans-serif;
+    margin:70px;
+    margin-top:10px;
+    font-size:large;
+    margin-left:55px;
+    margin-right:50px;
+    margin-bottom:10px;
+}
+#div1-sec8 {
+    width: 100%;
+    height: 700px;
+    border: rgb(0, 0, 0) ridge 4px;  
+    background-color: black;
+    margin-top: 3500px;
+  }
+  .div2-sec8 {
+    width: 300px;
+    height: 500px;
+    border: rgb(0, 0, 0) none 4px;  
+    float: left;
+    margin-left: 40px;
+    
+  }
+  .div3-sec8 {
+    width: 300px;
+    height: 500px;
+    border: rgb(0, 0, 0) none 4px;  
+    float: left;
+    margin-left: 20px;
+    /* margin-top: -80px; */
+  }
+  .div4-sec8 {
+    width: 300px;
+    height: 500px;
+    border: rgb(0, 0, 0) none 4px;
+    float: left;  
+    margin-left: 20px;
+    /* margin-top: -80px; */
+  }
+  .div5-sec8 {
+    width: 300px;
+    height: 500px;
+    border: rgb(0, 0, 0) none 4px;  
+    float: left;
+    margin-left: 20px;
+    /* margin-top: -80px; */
+  }
+  #foo {
+    color: white;
+    font-family: 'Sofia', cursive;
+    font-size: 20px;
+  }
+  #foot {
+    color: white;
+    font-size: 40px;
+  }
+  #foote {
+    color: white;
+    font-size: 20px;
+    font-family: 'Sofia', cursive;
+  }
+  #hr-sec-foo {
+    color: grey;
+    border: 1px solid grey;
+    margin-top: 550px;
+    width: 600px;
+    margin-left: 380px;
+  }
+  
+  #nav {
+    background-color: black;
+    height: 120px;
+    /* opacity: 0,5 ; */
+    /* margin-top: 100px; */
+  }
+  
+  #navbar {
+    color: white;
+    margin-left: 30px;
+    margin-top: 20px;
+    animation: glow 1s ease-in-out infinite alternate;
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+  }
+  #navbar1 {
+    color: white;
+    margin-left: 150px;
+    margin-top: 20px;
+    animation: glow 1s ease-in-out infinite alternate;
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+  }
+  #video1{
+    height: 120px;
+    width: 130px;
+  margin-left: 50px;
+  }
+  @-webkit-keyframes glow {
+    from {
+      text-shadow: 0 0 10px #fff, 0 0 20px rgb(140, 46, 228), 0 0 30px #c000e6, 0 0 40px #b800e6, 0 0 50px #e600d3, 0 0 60px #d300e6, 0 0 70px #e600e6;
+    }
+    
+    to {
+      text-shadow: 0 0 20px #fff, 0 0 30px rgb(140, 46, 228), 0 0 40px #9223d3, 0 0 50px #b84dff, 0 0 60px #f04dff, 0 0 70px #ea4dff, 0 0 80px #ff4dff;
+    }
+  }

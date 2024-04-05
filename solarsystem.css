@@ -1,0 +1,337 @@
+ #d1{ 
+    height:500px;
+    width:100%;
+    /* border:2px black ridge; */
+    float: left;
+ } 
+ #d1{ 
+    background-image:url(Images/solarm2.jpg);
+    background-repeat: no-repeat;
+    background-size:100% 500px;
+    background-position:100%; 
+ }
+  #dd1{
+  height:200px; 
+   width:100%; 
+  /* border:2px black ridge; */
+   float: left;
+  background-color:rgba(300,300,300,0.3);
+  backdrop-filter:blur(20%);
+  margin-top:8%;
+} 
+#h11{
+  margin-left:40%;
+  color:purple;
+  font-family:"sofia",sans-serif;
+  font-size:70px;
+  margin-top:5%;
+  text-shadow:10px 10px #f5f0f5;
+}
+ #d2{
+    height:400px;
+    width:100%;
+    /* border:2px black ridge; */
+    float: left;
+    margin-top:10px ;
+ }
+ #d3{
+    height:400px;
+    width:100%;
+    /* border:2px black ridge; */
+    float: left;
+}
+  img {
+    border: 1px solid rgb(97, 16, 79); 
+    border-radius: 10px;
+    padding: 5px;
+    width: 200px;
+    box-shadow: rgb(59, 17, 49);
+    margin-top:50px ;
+    margin-left:6% ;
+    
+  }
+  img:hover {
+    box-shadow:0 0 30px 25px rgb(129, 12, 129);
+  }
+  #d4{
+    height:700px;
+    width:100%;
+    /* border:2px black ridge; */
+    float: left;
+    margin-top:100px;
+  }
+  #h1{
+    margin-left:5%;
+    color:purple;
+    font-family:"sofia",sans-serif;
+  }
+  #h2{
+    margin-left:40%;
+    color:purple;
+    font-family:"sofia",sans-serif;
+  }
+  #d5{
+    height:600px;
+    width:100%;
+   /* border:2px black ridge; */
+   float: left;
+   margin-top:50px ;
+  }
+  #d6{
+    height:600px;
+    width:60%;
+    /* border:2px black ridge; */
+    float: left;
+  }
+  #d7{
+    height:600px;
+    width:39.2%;
+    /* border:2px black ridge; */
+    float: left;
+    background-image:url(Images/planetry\ 1.jpeg);
+    background-repeat:no-repeat;
+    background-size:100% 600px;
+    background-position:100%;
+    margin-top:50px;
+    border-radius:50px 90px;
+  }
+  #d8{
+    height:700px;
+    width:100%;
+    /* border:2px black ridge; */
+    float: left;
+    margin-top:15%;
+  }
+  #h3{
+    margin-left:38%;
+    color:purple;
+    font-family:"sofia",sans-serif;
+  }
+  #d10{
+    height:400px;
+    width:90%;
+    /* border:2px black ridge; */
+    float: left;
+    margin-left:80px;
+  }
+  #d11{
+    height:1150px;
+    width:100%;
+    /* border:2px black ridge; */
+    float: left;
+  }
+  #h4{
+    margin-left:38%;
+    color:purple;
+    font-family:"sofia",sans-serif;
+  }
+  #d12{
+    height:300px;
+    width:100%;
+     /* border:2px black ridge; */
+     float: left; 
+     margin-top:1px;
+  }
+  #d13{
+    height:300px;
+    width:60%;
+    /* border:2px black ridge; */
+    float: left;
+  }
+  #d14{
+    height:290px;
+    width:40%;
+    /* border:2px black ridge; */
+    float: left;
+    background-image:url(Images/pluto1.jpg);
+    background-repeat: no-repeat;
+    background-size:100%;
+    border-radius:50px 90px;
+  }
+  #d15{
+    height:300px;
+    width:100%;
+     /* border:2px black ridge; */
+     float: left; 
+     margin-top:5px;
+  }
+  #d16{
+    height:300px;
+    width:60%;
+    /* border:2px black ridge; */
+    float: left;
+  }
+  #d17{
+    height:290px;
+    width:40%;
+    /* border:2px black ridge; */
+    float: left;
+    background-image:url(Images/pluto2.jpg);
+    background-repeat: no-repeat;
+    background-size:100%;
+    border-radius:50px 90px;
+  }
+  #d18{
+    height:300px;
+    width:100%;
+     /* border:2px black ridge; */
+     float: left; 
+     margin-top:5px;
+  }
+  #d19{
+    height:300px;
+    width:60%;
+    /* border:2px black ridge; */
+    float: left;
+  }
+  #d20{
+    height:290px;
+    width:40%;
+    /* border:2px black ridge; */
+    float: left;
+    background-image:url(Images/pluto3.jpg);
+    background-repeat: no-repeat;
+    background-size:100%; 
+    border-radius:50px 90px;
+  }
+  #d21{
+    height:700px;
+    width:100%;
+    /* border:2px black ridge; */
+    float: left;
+  }
+  #h5{
+    margin-left:35%;
+    color:purple;
+    font-family:"sofia",sans-serif; 
+  }
+  #d22{
+    height:466px;
+    width:100%;
+    /* border:2px black ridge; */
+    float: left;
+  }
+  #d23{
+    height:466px;
+    width:55%;
+    /* border:2px black ridge; */
+    float: left;
+  }
+  #d24{
+    height:466px;
+    width:45%;
+    /* border:2px black ridge; */
+    float: left;
+    background-image:url(Images/storms\ 2.jpg);
+    background-repeat: no-repeat;
+    background-size:100% 466;
+    background-position:100%;
+    border-radius:15px 75px;
+  }
+  p{
+    font-family:"sofia",sans-serif;
+  }
+  #h6{
+    font-family:"sofia",sans-serif;
+  }
+  #h7{
+    font-family:"sofia",sans-serif;
+  }
+  #div1-sec8 {
+    width: 100%;
+    height: 700px;
+    border: rgb(0, 0, 0) ridge 4px;  
+    background-color: black;
+    margin-top: 5000px;
+  }
+  .div2-sec8 {
+    width: 300px;
+    height: 500px;
+    border: rgb(0, 0, 0) none 4px;  
+    float: left;
+    margin-left: 40px;
+    /* margin-top: 00PX; */
+  }
+  .div3-sec8 {
+    width: 300px;
+    height: 500px;
+    border: rgb(0, 0, 0) none 4px;  
+    float: left;
+    margin-left: 20px;
+    /* margin-top: -80px; */
+  }
+  .div4-sec8 {
+    width: 300px;
+    height: 500px;
+    border: rgb(0, 0, 0) none 4px;
+    float: left;  
+    margin-left: 20px;
+    /* margin-top: -80px; */
+  }
+  .div5-sec8 {
+    width: 300px;
+    height: 500px;
+    border: rgb(0, 0, 0) none 4px;  
+    float: left;
+    margin-left: 20px;
+    /* margin-top: -80px; */
+  }
+  #foo {
+    color: white;
+    font-family: 'Sofia', cursive;
+    font-size: 20px;
+  }
+  #foot {
+    color: white;
+    font-size: 40px;
+  }
+  #foote {
+    color: white;
+    font-size: 20px;
+    font-family: 'Sofia', cursive;
+  }
+  #hr-sec-foo {
+    color: grey;
+    border: 1px solid grey;
+    margin-top: 550px;
+    width: 600px;
+    margin-left: 380px;
+  }
+  
+  #nav {
+    background-color: black;
+    height: 120px;
+    /* opacity: 0,5 ; */
+    /* margin-top: 100px; */
+  }
+  
+  #navbar {
+    color: white;
+    margin-left: 30px;
+    margin-top: 20px;
+    animation: glow 1s ease-in-out infinite alternate;
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+  }
+  #navbar1 {
+    color: white;
+    margin-left: 150px;
+    margin-top: 20px;
+    animation: glow 1s ease-in-out infinite alternate;
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+  }
+  #video1{
+    height: 120px;
+    width: 130px;
+  margin-left: 50px;
+  }
+  @-webkit-keyframes glow {
+    from {
+      text-shadow: 0 0 10px #fff, 0 0 20px rgb(140, 46, 228), 0 0 30px #c000e6, 0 0 40px #b800e6, 0 0 50px #e600d3, 0 0 60px #d300e6, 0 0 70px #e600e6;
+    }
+    
+    to {
+      text-shadow: 0 0 20px #fff, 0 0 30px rgb(140, 46, 228), 0 0 40px #9223d3, 0 0 50px #b84dff, 0 0 60px #f04dff, 0 0 70px #ea4dff, 0 0 80px #ff4dff;
+    }
+  }

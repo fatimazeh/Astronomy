@@ -1,0 +1,290 @@
+.d1 {
+    height: 30%;
+    width: 60%;
+    border: rgba(107, 21, 71, 0.2) 1px solid;
+    background-color: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(7px);
+    /* backdrop-co: ; */
+    margin-top: 100px;
+    margin-left: 300px;
+}
+ .h1{
+font-size: 50px;
+font-weight: 500;
+margin-top: 25px;
+color: rgb(59, 29, 44);
+text-align: center;
+font-family: 'Leckerli One', cursive;
+animation: glow 1s ease-in-out infinite alternate;
+}
+#nav {
+background-color: black;
+/* width: 150px; */
+height: 120px;
+width: 1450px;
+/* border: 1px red ridge; */
+/* margin-left: 10%; */
+
+}
+
+#navbar {
+color: white;
+margin-left: 20px;
+margin-top: 10px;
+animation: glow-nav 1s ease-in-out infinite alternate;
+font-family: 'Lobster', cursive;
+font-size: 20px;
+}
+#navbar1 {
+color: white;
+margin-left: 130px;
+margin-top: 10px;
+animation: glow-nav 1s ease-in-out infinite alternate;
+font-family: 'Lobster', cursive;
+font-size: 20px;
+}
+#video1 {
+  height: 120px;
+  width: 150px;
+  margin-left: 20px;
+
+}
+@-webkit-keyframes glow {
+from {
+text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #a519aa, 0 0 50px #a519aa, 0 0 60px #e60073, 0 0 70px #e60073;
+}
+to {
+text-shadow: 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #fff, 0 0 50px #fff, 0 0 60px #a519aa, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+}
+}
+@-webkit-keyframes glow-nav {
+from {
+text-shadow: 0 0 10px #fff, 0 0 20px rgb(255, 255, 255), 0 0 30px #b000e6, 0 0 40px #a500e6f1, 0 0 50px #b800e6, 0 0 60px #7f00e6, 0 0 70px #9200e6;
+}
+to {
+text-shadow: 0 0 20px #fff, 0 0 30px #b84dff, 0 0 40px #db4dff, 0 0 50px #d54dff, 0 0 60px #e14dff, 0 0 70px #be4dff, 0 0 80px #ff4dff;
+}
+}
+.d2
+{
+
+    height: 400px;
+    width: 100%;
+}
+.d3
+{
+    height: 400px;
+width: 100%;
+
+
+margin-top: 300px;
+
+
+}
+.d4
+{
+  height: 400px;
+  width: 500px;
+  float: left;
+  margin-left: 20px ;
+  margin-top: 50px;
+  border-radius: 15px 50px;
+  box-shadow: 2px 2px 2px grey;
+}
+.d5
+{
+  height: 400px;
+  width: 700px;
+
+  float: left;
+  margin-left:67px ;
+  margin-top: 50px;
+  border-radius: 15px 50px;
+  /* background-image:url(assets/images/home/f.jpg) ;
+background-size: 100% 500px; */
+filter: brightness(120%);background-color:rgba(255, 255, 255, 0.2) ;
+backdrop-filter:5px;
+
+}
+.flip-card
+{
+    height: 250px;
+width: 250px;
+border: black 1px solid;
+margin-left:20px ;
+float: left;
+}
+.i1
+{
+    margin-top: 300px;
+    font-size: 33px;
+font-weight: 500;
+text-align: center;
+font-family: 'Sofia', cursive;
+}
+.i2
+{
+    font-size: 40px;
+    font-weight: 500;
+    text-align: center;
+    font-family: 'Sofia', cursive;
+    }  
+.img1
+{
+  height: 400px;
+  width: 100%; 
+  border-radius: 15px 50px; 
+}
+
+
+
+/* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
+.flip-card {
+    background-color: transparent;
+    width: 300px;
+    height: 200px;
+    border: 1px solid #f1f1f1;
+    perspective: 1000px; 
+    border-radius: 15px 50px;
+  }
+  
+  /* This container is needed to position the front and back side */
+  .flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+    border-radius: 15px 50px;
+  }
+  
+  /* Do an horizontal flip when you move the mouse over the flip box container */
+  .flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+  }
+  
+  /* Position the front and back side */
+  .flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden; /* Safari */
+    backface-visibility: hidden;
+    border-radius: 15px 50px;
+  }
+  
+  /* Style the front side (fallback if image is missing) */
+  .flip-card-front {
+    background-color: #bbb;
+    color: black;
+    border-radius: 15px 50px;
+  }
+  
+  /* Style the back side */
+  .flip-card-back {
+    background-color: dodgerblue;
+    color: white;
+    transform: rotateY(180deg);
+    border-radius: 15px 50px;}
+
+    .i3{
+      font-size:70px ;
+      text-align: center;
+    
+      color: rgb(53, 15, 68);
+      text-align: center;
+      font-family: 'Sofia', cursive;
+    }
+    .i4
+    {
+      font-size:17px ;
+      text-align: center;
+      color: rgb(53, 15, 68);
+      text-align: center;
+      font-family: 'Sofia', cursive;
+    }
+    .btn
+    {
+      margin-left: 305px;
+      padding:12px ;
+      background-color: black;
+    }
+    .d7 { height: 400px; width: 500px;
+       float: left; margin-top: 50px; margin-left:20px ; border-radius: 15px 50px; background-image:url(assets/images/home/5.jpg); background-size: 100% 400px; box-shadow: 2px 2px 2px grey; }
+    .d8 { height: 400px; width: 720px; float: left; margin-top: 50px; margin-left:50px ; }
+     .i6 { text-align: center; font-size: 17px; color: rgb(53, 15, 68);
+      text-align: center;
+      font-family: 'Sofia', cursive; }
+      .i5 { text-align: center; color: rgb(53, 15, 68);
+        text-align: center;
+        font-family: 'Sofia', cursive; }
+       .btn { margin-left: 290px; padding: 12px; background-color: rgb(53, 15, 68); border: 1px white solid; border-radius: 15px; margin-top: 6px; } 
+       .btn a{ text-decoration: none; color: white; }
+        .btn:hover{ background-color: white; border: 1px solid rgb(53, 15, 68); }
+       
+       .btn a:hover{ color: rgb(53, 15, 68); font-weight: 500; }
+       .d10
+       { height: 400px; width: 500px;
+        float: left; margin-top: 50px; margin-left:20px ; border-radius: 15px 50px; background-image:url(assets/images/home/c.jpg); background-size: 100% 500px; box-shadow: 2px 2px 2px grey;
+
+       }
+       .d11 { height: 400px; width: 500px;
+        float: left; margin-top: 50px; margin-left:20px ; border-radius: 15px 50px; background-image:url(assets/images/home/1.jpg); background-size: 100% 450px; box-shadow: 2px 2px 2px grey; }
+ 
+        #div1-sec8 {
+          width: 100%;
+          height: 700px;
+          border: rgb(0, 0, 0) ridge 4px;  
+          background-color: black;
+          margin-top: 2000px;
+      }
+      .div2-sec8 {
+          width: 300px;
+          height: 500px;
+          border: rgb(0, 0, 0) ridge 4px;  
+          float: left;
+          margin-left: 40px;
+      }
+      .div3-sec8 {
+          width: 300px;
+          height: 500px;
+          border: rgb(0, 0, 0) ridge 4px;  
+          float: left;
+          margin-left: 20px;
+      }
+      .div4-sec8 {
+          width: 300px;
+          height: 500px;
+          border: rgb(0, 0, 0) ridge 4px;
+          float: left;  
+          margin-left: 20px;
+      }
+      .div5-sec8 {
+          width: 300px;
+          height: 500px;
+          border: rgb(0, 0, 0) ridge 4px;  
+          float: left;
+          margin-left: 20px;
+      }
+      #foo {
+          color: white;
+          font-family: 'Sofia', cursive;
+          font-size: 20px;
+      }
+      #foot {
+          color: white;
+          font-size: 40px;
+      }
+      #foote {
+          color: white;
+          font-size: 20px;
+          font-family: 'Sofia', cursive;
+      }
+      #hr-sec-foo {
+          color: grey;
+          border: 1px solid grey;
+          margin-top: 550px;
+          width: 600px;
+          margin-left: 380px;
+      }
